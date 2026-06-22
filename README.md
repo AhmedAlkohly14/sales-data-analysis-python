@@ -117,24 +117,10 @@ The project identifies:
 
 ### RFM Scatter Plot
 
-![RFM Scatter](outputs/rfm_scatter_ahmed.png)
-
+![RFM Scatter](rfm_scatter_ahmed.png)
 ### Sales Dashboard
 
-![Sales Dashboard](outputs/final_dashboard_ahmed.png)
-
-## Generated Reports
-
-The project generates CSV reports inside the `reports` folder:
-
-```text
-summary_metrics.csv
-category_share.csv
-city_share.csv
-rfm_customers.csv
-vip_customers.csv
-churn_risk_customers.csv
-```
+![Sales Dashboard](final_dashboard_ahmed.png)
 
 ## Project Structure
 
@@ -149,15 +135,6 @@ sales-data-analysis-python/
 ├── outputs/
 │   ├── rfm_scatter_ahmed.png
 │   └── final_dashboard_ahmed.png
-│
-└── reports/
-    ├── summary_metrics.csv
-    ├── category_share.csv
-    ├── city_share.csv
-    ├── rfm_customers.csv
-    ├── vip_customers.csv
-    └── churn_risk_customers.csv
-```
 
 ## How to Run
 
